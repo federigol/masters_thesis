@@ -1,6 +1,6 @@
 # Readme
 
-The files in this repository were created as part of my Master's Thesis **Social Distancing in Informal Settlements: Using incentivized Web Surveys in a Volunteer opt-in Panel to create a Case Study of Kibera, Nairobi**. This project was conducted in collaboration with Busara Center for Behavioral Economics.
+The files in this repository were created as part of my Master's Thesis **Social Distancing in Informal Settlements: Using incentivized Web Surveys in a Volunteer opt-in Panel to create a Case Study of Kibera, Nairobi**. This project was conducted in collaboration with Busara Center for Behavioral Economics. I also published a <a href="https://medium.com/busara-center-blog/to-live-or-not-to-leave-2854a496cfac">medium article</a> describing the study design and the most interesting findings.
 
 The R Script contains the following parts:
 
